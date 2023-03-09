@@ -5,7 +5,6 @@
 <link rel="stylesheet" href="../css/search.css">
 <link rel="stylesheet" href="../css/appmy.min.css">
 <link rel="stylesheet" href="../css/glide.core.min.css">
-
 <style>
 :root {
 	--primary-color: #00bcd4;
