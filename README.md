@@ -1,7 +1,8 @@
-# weather-php-WeatherPress
-Location forecast.<br>
+##Location forecast.<br>
 
-Agriculture forecast with details.<br>
+Location and Agriculture forecast with details.<br>
+
+Temperature and forecast.<br>
 
 Air condition: Particulate, Carbon Monoxide, Nitrogen Dioxide, Sulphur Dioxide, Ozone, Aerosol Optical Depth, Dust.<br>
 
