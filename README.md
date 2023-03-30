@@ -1,4 +1,4 @@
-##Location forecast.<br>
+## Location Forecast
 
 Location and Agriculture forecast with details.<br>
 
