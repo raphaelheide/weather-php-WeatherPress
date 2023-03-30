@@ -11,3 +11,9 @@ Information about your local forecast.<br>
 WeatherPress can be available in any country and language, Metrical and Imperial System. <br>
 
 ## API Wrapper DWD, HRRR, JMA and GEM
+
+Global and realtime DWD, HRRR, JMA and GEM
+
+## Help 
+
+https://raphaelheide.com/weatherpress
